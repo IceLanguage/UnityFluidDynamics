@@ -3,6 +3,10 @@ using UnityEngine;
 
 
 /// <summary>
+/// Author : 林豪
+/// Creation Date : Jan 20 2019
+/// Description:
+/// This code is translated from the code provided in Jos Stam's GDC2003 paper 
 /// Reference: Jos Stam, "Real-Time Fluid Dynamics for Games". Proceedings of the Game Developer Conference, March 2003.
 /// </summary>
 public class Show : MonoBehaviour {
